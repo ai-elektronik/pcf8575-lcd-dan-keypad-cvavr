@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4B4A4909
+NODE:F LEVEL:0 LINE:1 "twiinit(void)"
+NODE:F LEVEL:0 LINE:9 "twistart(void)"
+NODE:F LEVEL:0 LINE:14 "twistop(void)"
+NODE:F LEVEL:0 LINE:18 "twiwrite(unsigned char data)"
+NODE:F LEVEL:0 LINE:24 "twiread(unsigned char ack)"
